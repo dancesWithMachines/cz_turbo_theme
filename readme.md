@@ -1,6 +1,9 @@
 # Mitsubishi Colt CZ Turbo theme for Torque app
 This is a custom theme for the Torque app that's supposed to imitate factory gauge set of Mitsubishi Colt CZ (Z30) models with turbo (CZT, CZC "Turbo" trim level). It is not a direct copy, I do not have skills to create fonts, so I had to use what's available.
 
+![](https://danceswithmachines.github.io/assets/posts/virtual-gauges-for-turbo-colts/dashboard_1.jpg)
+
+Check out [the article](https://danceswithmachines.github.io/posts/virtual-gauges-for-turbo-colts/) for details.
 ## File structure
 File structure follows guidelines available in [official Torque wiki](https://wiki.torque-bhp.com/view/Themesfree) with additional `raw` directory which contains all the raw files (scans, photos) I used to create this theme. I left it here in case any improvements are needed in the future.
 
@@ -10,6 +13,12 @@ This theme uses two fonts:
 * League Spartan Bold - for text, looks similar enough to `x1000r/min` text on factory gauges. This is free equivalent of `Futura` family font, which I believe original author was inspired by too.
 
 Licenses for the fonts can be found in `COPYING.lib` file.
+
+## Downloading & Installing the Theme
+
+You can download the ZIP archive from the `Releases` tab on the right.
+Choose `cz_turbo_theme.zip`; this archive does not contain unnecessary raw files, so the size of the archive is marginally reduced.
+To install the theme, you can use the `Import Theme` function in the theme chooser.
 
 ## License
 All the files except font files are licensed under CC-BY license, meaning a credit must be given to the author.
