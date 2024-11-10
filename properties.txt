@@ -1,0 +1,16 @@
+dialTickOuterRadius=1.4
+dialNeedleSizeRatio=1.9
+dialTickStyle=0
+globalDialStopAngle=45
+globalDialStartAngle=45
+displayTextTitleColour=#787878
+displayTickColour=#787878
+dialMeterTitleTextOffset=120
+dialNeedleValueTextOffset=120
+dialNeedleUnitTextOffset=90
+dialNeedleScaleTextOffset=-8
+dialMeterScaleTextOffset=-8
+globalFontScale=1.05
+displayTextValueColour=#2ea222
+displayIndicatorColour=#2ea222
+graphLineColour=#2ea222
